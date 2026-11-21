@@ -1,5 +1,12 @@
 # Awesome AI（中文版）
 
+[![Stars](https://img.shields.io/github/stars/tuojing5520-beep/awesome-ai-cn?style=social)](https://github.com/tuojing5520-beep/awesome-ai-cn)
+[![Projects](https://img.shields.io/badge/项目-781-blue)](https://zhishi.us.ci/ai-list/)
+[![中文解析](https://img.shields.io/badge/中文解析-130-brightgreen)](https://zhishi.us.ci/ai-list/)
+[![License](https://img.shields.io/badge/license-MIT-black)](LICENSE)
+
+**[👉 在线版（可搜索、可筛选，手机也能用）](https://zhishi.us.ci/ai-list/)**
+
 > 把 GitHub 上 8000+ Star 的 AI 开源项目整理成中文：**它是什么、能干什么、上手难不难**。
 > 
 > 收录 **781** 个项目，其中 **130** 个已写中文解析。数据抓取自 GitHub Search API，更新于 2026-11-21。
